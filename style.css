@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    width: 90%;
+    padding-left: 30px;
+}
+
+.top-banner {
+    display: flex;
+    color: white;
+}
+
+.banner-text {
+    width: 50%;
+    float: left;
+}
+
+.banner-navbar {
+    text-align: end;
+    width: 50%;
+}
+
+li {
+    display: inline;
+    justify-content: space-evenly;
+}
